@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const EMPLOYEE_API_BASE_URL = "http://k8s-default-devops19-dc457ef2d4-8013d4dd7465545e.elb.us-west-2.amazonaws.com:8080/api/v1/employees"
+const EMPLOYEE_API_BASE_URL = "http://frontend.smxgroups.com/api/v1/employees"
 
 class EmployeeService {
 
